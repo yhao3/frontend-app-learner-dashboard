@@ -3,23 +3,23 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   lookingForChallengePrompt: {
     id: 'Dashboard.NoCoursesView.lookingForChallengePrompt',
-    defaultMessage: 'Looking for a new challenge?',
+    defaultMessage: '尋找新的挑戰嗎？',
     description: 'Prompt user for new challenge',
   },
   exploreCoursesPrompt: {
     id: 'Dashboard.NoCoursesView.exploreCoursesPrompt',
-    defaultMessage: 'Explore our courses to add them to your dashboard.',
+    defaultMessage: '瀏覽我們的課程以將它們添加到您的儀表板。',
     description: 'Prompt user to explore more courses',
   },
   exploreCoursesButton: {
     id: 'Dashboard.NoCoursesView.exploreCoursesButton',
-    defaultMessage: 'Explore courses',
+    defaultMessage: '瀏覽課程',
     description: 'Button to explore more courses',
   },
   bannerAlt: {
     id: 'Dashboard.NoCoursesView.bannerAlt',
-    defaultMessage: 'No Courses view banner',
-    description: 'No Courses view basnner',
+    defaultMessage: '無課程視圖橫幅',
+    description: 'No Courses view banner',
   },
 });
 

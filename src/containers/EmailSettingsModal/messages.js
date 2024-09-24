@@ -5,34 +5,33 @@ export const messages = StrictDict({
   header: {
     id: 'learner-dash.emailSettings.header',
     description: 'Header for email settings modal',
-    defaultMessage: 'Receive course emails?',
+    defaultMessage: '接收課程郵件？',
   },
   emailsOff: {
     id: 'learner-dash.emailSettings.emailsOff',
     description: 'Toggle text for email settings modal when email is disabled',
-    defaultMessage: 'Course emails are off',
+    defaultMessage: '課程郵件已關閉',
   },
   emailsOn: {
     id: 'learner-dash.emailSettings.emailsOn',
     description: 'Toggle text for email settings modal when email is enabled',
-    defaultMessage: 'Course emails are on',
+    defaultMessage: '課程郵件已開啟',
   },
   description: {
     id: 'learner-dash.emailSettings.description',
     description: 'Description for email settings modal',
-    defaultMessage: 'Course emails include important information about your course from instructors.',
+    defaultMessage: '課程郵件包含來自講師的課程重要資訊。',
   },
   nevermind: {
     id: 'learner-dash.emailSettings.nevermind',
     description: 'Cancel action for email settings modal',
-    defaultMessage: 'Never mind',
+    defaultMessage: '不用了',
   },
   save: {
     id: 'learner-dash.emailSettings.save',
     description: 'Save action for email settings modal',
-    defaultMessage: 'Save settings',
+    defaultMessage: '保存設置',
   },
-
 });
 
 export default messages;

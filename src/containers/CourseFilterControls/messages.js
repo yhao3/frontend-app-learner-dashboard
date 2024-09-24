@@ -4,52 +4,52 @@ const messages = defineMessages({
   inProgress: {
     id: 'learner-dash.courseListFilters.inProgress',
     description: 'in-progress filter checkbox label for course list filters',
-    defaultMessage: 'In-Progress',
+    defaultMessage: '進行中',
   },
   notStarted: {
     id: 'learner-dash.courseListFilters.notStarted',
     description: 'Not-Started filter checkbox label for course list filters',
-    defaultMessage: 'Not Started',
+    defaultMessage: '未開始',
   },
   done: {
     id: 'learner-dash.courseListFilters.done',
     description: 'done filter checkbox label for course list filters',
-    defaultMessage: 'Done',
+    defaultMessage: '已完成',
   },
   notEnrolled: {
     id: 'learner-dash.courseListFilters.notEnrolled',
     description: 'not-enrolled filter checkbox label for course list filters',
-    defaultMessage: 'Not Enrolled',
+    defaultMessage: '未註冊',
   },
   upgraded: {
     id: 'learner-dash.courseListFilters.upgraded',
     description: 'upgraded filter checkbox label for course list filters',
-    defaultMessage: 'Upgraded',
+    defaultMessage: '已升級',
   },
   clearAll: {
     id: 'learner-dash.courseListFilters.clearAll',
     description: 'clear all filters button text',
-    defaultMessage: 'Clear all',
+    defaultMessage: '清除全部',
   },
   sort: {
     id: 'learner-dash.courseListFilters.sort',
     description: 'Sort radio form heading',
-    defaultMessage: 'Sort',
+    defaultMessage: '排序',
   },
   sortLastEnrolled: {
     id: 'learner-dash.courseListFilters.sortLastEnrolled',
     description: 'Last enrolled sort option text',
-    defaultMessage: 'Last enrolled',
+    defaultMessage: '最新註冊',
   },
   sortTitle: {
     id: 'learner-dash.courseListFilters.sortTitle',
     description: 'Title sort option text',
-    defaultMessage: 'Title (A-Z)',
+    defaultMessage: '標題 (A-Z)',
   },
   refine: {
     id: 'learner-dash.courseListFilters.refine',
     description: 'Filter button container text',
-    defaultMessage: 'Refine',
+    defaultMessage: '篩選',
   },
 });
 

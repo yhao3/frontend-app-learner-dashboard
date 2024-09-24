@@ -4,12 +4,12 @@ export const messages = StrictDict({
   supportTitle: {
     id: 'zendesk.supportTitle',
     description: 'Title for the support button',
-    defaultMessage: 'edX Support',
+    defaultMessage: 'edX 支援',
   },
   selectTicketForm: {
     id: 'zendesk.selectTicketForm',
     description: 'Select ticket form',
-    defaultMessage: 'Please choose your request type:',
+    defaultMessage: '請選擇您的請求類型：',
   },
 });
 

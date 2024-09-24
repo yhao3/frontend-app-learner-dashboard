@@ -3,32 +3,32 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   ViewAs: {
     id: 'MasqueradeBar.ViewAs',
-    defaultMessage: 'View as: ',
+    defaultMessage: '以此身份檢視: ',
     description: 'Label for the View as',
   },
   ViewingAs: {
     id: 'MasqueradeBar.ViewingAs',
-    defaultMessage: 'Viewing as: ',
+    defaultMessage: '檢視身份: ',
     description: 'Label for the Viewing as',
   },
   SubmitButton: {
     id: 'MasqueradeBar.SubmitButton',
-    defaultMessage: 'Submit',
+    defaultMessage: '提交',
     description: 'Label for the Submit button',
   },
   StudentNameInput: {
     id: 'MasqueradeBar.StudentNameInput',
-    defaultMessage: 'Username or email',
+    defaultMessage: '用戶名或電子郵件',
     description: 'Label for the Student Name or email input',
   },
   NoStudentFound: {
     id: 'MasqueradeBar.NoStudentFound',
-    defaultMessage: 'No student with this username or email could be found',
+    defaultMessage: '找不到具有此用戶名或電子郵件的學生',
     description: 'Error message when no student is found',
   },
   UnknownError: {
     id: 'MasqueradeBar.UnknownError',
-    defaultMessage: 'An unknown error occurred',
+    defaultMessage: '發生未知錯誤',
     description: 'Error message when an unknown error occurs',
   },
 });

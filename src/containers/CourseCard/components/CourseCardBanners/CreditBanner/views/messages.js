@@ -4,57 +4,57 @@ export const messages = StrictDict({
   approved: {
     id: 'learner-dash.courseCard.banners.credit.approved',
     description: '',
-    defaultMessage: '{congratulations} {providerName} has approved your request for course credit. To see your course credit, visit the {linkToProviderSite} website.',
+    defaultMessage: '{congratulations} {providerName} 已經批准了您的課程學分申請。要查看您的課程學分，請訪問 {linkToProviderSite} 網站。',
   },
   congratulations: {
     id: 'learner-dash.courseCard.banners.credit.congratulations',
     description: '',
-    defaultMessage: 'Congratulations!',
+    defaultMessage: '恭喜！',
   },
   eligible: {
     id: 'learner-dash.courseCard.banners.credit.eligible',
     description: '',
-    defaultMessage: 'You have completed this course and are eligible to purchase course credit.  Select {getCredit} to get started.',
+    defaultMessage: '您已完成此課程，並有資格購買課程學分。選擇 {getCredit} 開始。',
   },
   eligibleFromProvider: {
     id: 'learner-dash.courseCard.banners.credit.eligibleFromProvider',
     description: '',
-    defaultMessage: 'You are now eligible for credit from {providerName}. Congratulations!',
+    defaultMessage: '您現在有資格獲得 {providerName} 的學分。恭喜！',
   },
   getCredit: {
     id: 'learner-dash.courseCard.banners.credit.getCredit',
     description: '',
-    defaultMessage: 'Get Credit',
+    defaultMessage: '獲取學分',
   },
   mustRequest: {
     id: 'learner-dash.courseCard.banners.credit.mustRequest',
     description: '',
-    defaultMessage: 'Thank you for your payment.  To receive course credit, you must request credit at the {linkToProviderSite} website.  Select {requestCredit} to get started',
+    defaultMessage: '感謝您的付款。要獲得課程學分，您必須在 {linkToProviderSite} 網站申請學分。選擇 {requestCredit} 開始。',
   },
   received: {
     id: 'learner-dash.courseCard.banners.credit.received',
     description: '',
-    defaultMessage: '{providerName} has received your course credit request.  We will update you when credit processing is complete.',
+    defaultMessage: '{providerName} 已收到您的課程學分申請。我們將在學分處理完成後通知您。',
   },
   rejected: {
     id: 'learner-dash.courseCard.banners.credit.rejected',
     description: '',
-    defaultMessage: '{providerName} did not approve your request for course credit.  For more information, contact {linkToProviderSite} directly.',
+    defaultMessage: '{providerName} 未批准您的課程學分申請。欲了解更多信息，請直接聯繫 {linkToProviderSite}。',
   },
   requestCredit: {
     id: 'learner-dash.courseCard.banners.credit.requestCredit',
     description: '',
-    defaultMessage: 'Request Credit',
+    defaultMessage: '申請學分',
   },
   viewCredit: {
     id: 'learner-dash.courseCard.banners.credit.viewCredit',
     description: '',
-    defaultMessage: 'View Credit',
+    defaultMessage: '查看學分',
   },
   viewDetails: {
     id: 'learner-dash.courseCard.banners.credit.viewDetails',
     description: '',
-    defaultMessage: 'View Details',
+    defaultMessage: '查看詳情',
   },
 });
 

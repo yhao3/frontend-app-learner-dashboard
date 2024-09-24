@@ -4,22 +4,22 @@ export const messages = StrictDict({
   bannerAlt: {
     id: 'learner-dash.courseCard.bannerAlt',
     description: 'Course card banner alt-text',
-    defaultMessage: 'Course thumbnail',
+    defaultMessage: '課程縮圖',
   },
   verifiedBanner: {
     id: 'learner-dash.courseCard.verifiedBanner',
     description: 'Course card verified banner',
-    defaultMessage: 'Verified',
+    defaultMessage: '已驗證',
   },
   verifiedHoverDescription: {
     id: 'learner-dash.courseCard.verifiedHoverDescription',
     description: 'Course card verified hover description',
-    defaultMessage: 'You\'re enrolled as a verified student',
+    defaultMessage: '您已註冊為已驗證學生',
   },
   verifiedBannerRibbonAlt: {
     id: 'learner-dash.courseCard.verifiedBannerRibbonAlt',
     description: 'Course card verified banner ribbon alt-text',
-    defaultMessage: 'ID Verified Ribbon/Badge',
+    defaultMessage: '身份驗證徽章',
   },
 });
 
